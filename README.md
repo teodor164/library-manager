@@ -34,6 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
    npm run start:dev
 
 Visit http://localhost:3000 to view the app.
+The mock backed will run on port 8000, make sure this 2 ports are not used.
 
 ## Usage
 
