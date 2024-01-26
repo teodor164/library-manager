@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/teodor164/library-manager.git
 
 2. Install dependencies:
    ```
@@ -61,11 +61,6 @@ Once the Library Manager application is up and running, you can manage your book
 
 - Find the book you wish to remove from the list.
 - Click the "Delete" button associated with the book to remove it from the collection.
-
-### Searching and Filtering
-
-- Use the search bar to find books by title or author.
-- Filter books by genre, status, or other criteria using the filter options.
 
 ### Switching Between Light and Dark Mode
 
