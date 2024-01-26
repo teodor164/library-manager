@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teodor164/personal-project.git"
+    "url": "git+https://github.com/teodor164/library-manager.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/teodor164/personal-project/issues"
+    "url": "https://github.com/teodor164/library-manager/issues"
   },
-  "homepage": "https://github.com/teodor164/personal-project#readme",
+  "homepage": "https://github.com/teodor164/library-manager#readme",
   "devDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/plugin-transform-runtime": "^7.21.0",
